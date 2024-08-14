@@ -1,6 +1,6 @@
 require 'spec_helper'
 
-RSpec.describe Weather::Daily do
+RSpec.describe Weather::DailyReport do
   describe '#temperatures' do
     subject { described_class.new }
 

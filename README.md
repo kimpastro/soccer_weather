@@ -17,3 +17,9 @@ You must see the response as:
 The day with minimum temperature variation is: 14.
 With a temperature variation of: 2 degrees.
 ```
+
+**Running tests:**
+
+```
+bundle exec rspec
+```
