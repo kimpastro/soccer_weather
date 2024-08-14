@@ -1,2 +1,2 @@
 require_relative '../entities/temperature'
-require_relative '../services/daily'
+require_relative '../services/daily_report'

@@ -1,5 +1,5 @@
 module Weather
-  class Daily
+  class DailyReport
     DATA_FILE = 'data/w_data.dat'
 
     def initialize
